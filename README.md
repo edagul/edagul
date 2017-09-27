@@ -1,0 +1,2 @@
+# edagul
+Eda's Wiki
